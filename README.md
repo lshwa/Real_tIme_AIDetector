@@ -1,5 +1,9 @@
 # 인간 지표 기반 실시간 AI 글쓰기 탐지기
 
+<p align="center">
+  <img src="./images/DemoScreenshot.png" width="700"/>
+</p>
+
 ## 프로젝트 개요
 
 최근 AI 글쓰기 모델(GPT 기반 LLM)의 사용이 급격히 증가하면서,  
